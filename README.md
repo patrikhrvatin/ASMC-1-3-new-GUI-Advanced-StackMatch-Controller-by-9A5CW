@@ -1,5 +1,6 @@
 # ASMC-1-3-new-GUI-Advanced-StackMatch-Controller-by-9A5CW
-![ASMC RX Stanje](asmc_rx.png)
+![ASMC GUI](asmc2IN1.png)
+
 # ASMC 1-3 (Advanced StackMatch Controller)
 
 An advanced, microcontroller-based antenna stacking and matching controller designed for amateur radio operators. The system utilizes an **Arduino Nano** paired with a custom Python/CustomTkinter GUI for seamless remote operation, hardware safety sequencing, and robust relay management based on the classic **SJ2W** architectural model.
